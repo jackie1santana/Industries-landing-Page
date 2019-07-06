@@ -1,2 +1,2 @@
 # Industries-landing-Page
-Online training Manual Template
+Online training Manual Mock Up Landing Page
